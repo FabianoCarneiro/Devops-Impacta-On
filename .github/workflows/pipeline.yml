@@ -110,7 +110,7 @@ jobs:
       - name: Test 
         shell: bash
         run: |
-          echo "Teste aplicação"  
+          echo "Teste aplicação aula"  
   
   deploy-Prod:
     runs-on: ubuntu-latest
